@@ -13,7 +13,7 @@ ___
 divide into groups - shuffle the groups every week
 
 Task:
-1. explore data - gather stats about data like number of images for each condition + more (ABHISHEK, ARUN)
+1. explore data - gather stats about data like number of images for each condition + more (ABHISHEK, ARUN, RICK)
 2. data prep - creating master dtaset (combining all the datasets) (ANSHUMAN, NAMRATA)  --> done
 3. pre-processing (image - data augmentation) )(SWARNA, THIRUMA) --> in progress
 4. pre-processing (.csv) (RICK, ANSHUMAN) --> todo 18thJune (+ explore)
