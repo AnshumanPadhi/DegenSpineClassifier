@@ -43,13 +43,6 @@ study_ids = list(df['study_id'].unique())
 
 sample_sub = pd.read_csv(f'{rd}/sample_submission.csv')
 
-# print(df.columns)
-# features = ['study_id', 'series_id', 'instance_number', 'condition', 'level', 'series_description']
-# X = df.loc[:, features]
-# y = df.loc[:, ['severity']]
-
-# X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=0, train_size = .80)
-
 LABELS = list(sample_sub.columns[1:])
 LABELS
 
